@@ -54,9 +54,9 @@ class TextScramble {
 
 const phrases = [
     'Fast Learner',
-    'Fitness enthusiast',
-    `${(new Date().getFullYear() - new Date('02.20.1996').getFullYear())} years old`,
     'Tech guru',
+    'Spor enthusiast',
+    `${(new Date().getFullYear() - new Date('02.20.1996').getFullYear())} years old`,
     'Cihat Koçoğlu'
 ];
 
